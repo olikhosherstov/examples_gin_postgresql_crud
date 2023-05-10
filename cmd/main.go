@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/olikhosherstov/examples_gin_postgresql_crud/pkg/common/books"
+	"github.com/olikhosherstov/examples_gin_postgresql_crud/pkg/books"
 	"github.com/olikhosherstov/examples_gin_postgresql_crud/pkg/common/db"
 
 	"github.com/gin-gonic/gin"
